@@ -10,10 +10,10 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: groundGrass_mownWide_207
+  m_Name: Ball
   m_EditorClassIdentifier: 
-  m_Sprite: {fileID: 240696056, guid: 5ed1dc07fe8280d458886ea18615b1f7, type: 3}
-  m_Color: {r: 1, g: 0, b: 0, a: 1}
+  m_Sprite: {fileID: 21300000, guid: bf5f3c87b56996f4fb2e6a621ebd3ffc, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_Transform:
     e00: 1
     e01: 0
